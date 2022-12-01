@@ -4,6 +4,8 @@ A developer focused on creating automatic and easy solutions, as well as mantain
 
 My main project at this day is Compyter Stats, a web application for monitoring a network of devices, tracking their resources, like CPU usage, process list... This project uses Python, Django and MySQL. I tried to cover as many technologies as possible so I have an opportunity to master them.
 
+## Always open to learn new and exciting things. 
+
 <!--
 **Nekuake/nekuake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
