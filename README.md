@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello, this is Alejandro (he/him)
+
+I am a programmer, mainly in python, aspiring to be able to work as a developer and DevOps. I also know languages like C# or C++, although I have had contact with Rust and Golang. I also like a lot to tinker with multimedia oriented computing.
+
+My main project at this day is Compyter Stats, a web application for monitoring a network of devices, tracking their resources, like CPU usage, process list... This project uses Python, Django and MySQL. I tried to cover as many technologies as possible so I have an opportunity to master them.
 
 <!--
 **Nekuake/nekuake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
